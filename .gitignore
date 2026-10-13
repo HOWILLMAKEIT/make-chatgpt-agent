@@ -1,0 +1,5 @@
+.env
+.devspace/
+auth.json
+*.log
+.DS_Store
